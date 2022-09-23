@@ -124,9 +124,9 @@ img {
   text-transform: uppercase;
   color: var(--text-color-one);
   max-width: 696px;
+  text-align: center;
+  margin: 0 auto;
   margin-bottom: 30px;
-  margin-right: auto;
-  margin-left: auto;
 }
 .hero-btn {
   font-family: inherit;
@@ -134,7 +134,6 @@ img {
   font-size: 16px;
   line-height: 1.88;
   border-radius: 4px;
-  text-align: center;
   cursor: pointer;
   border-color: transparent;
   letter-spacing: 0.06em;
@@ -152,6 +151,7 @@ img {
 
 .features {
   padding-top: 94px;
+  padding-bottom: 47px;
 }
 
 .visually-hidden {
@@ -185,7 +185,7 @@ img {
 /* ----------Work--------- */
 
 .work {
-  padding-top: 94px;
+  padding-top: 47px;
   padding-bottom: 94px;
 }
 .work-title {
