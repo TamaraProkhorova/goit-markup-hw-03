@@ -54,6 +54,7 @@ img {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--text-color-two);
+  border-bottom: 1px solid #ececec;
 }
 .header-navigation,
 .header-container {
@@ -352,6 +353,9 @@ img {
   display: flex;
   flex-wrap: wrap;
   gap: 30px;
+}
+.filter-item {
+  border-bottom: 1px solid #ececec;
 }
 .filter-img {
   margin-bottom: 20px;
